@@ -40,4 +40,8 @@ public class Constantes {
             " (" +CAT_ID + "  INTEGER PRIMARY KEY AUTOINCREMENT," + CAT_NOMBRE + "  TEXT NOT NULL)";
 
 
+
+    //COMANDO LISTAR
+    public static final String Consulta = "SELECT * FROM ";
+
 }
