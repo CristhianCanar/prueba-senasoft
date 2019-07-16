@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/barSalir"
+        android:icon="@drawable/ic_keyboard_backspace_black_24dp"
+        android:title="Salir"
+        app:showAsAction="ifRoom" />
+
+    <item android:id="@+id/menuRegistrarse"
+        android:title="Registrarse"
+        />
+
+    <item android:id="@+id/menuAyuda"
+        android:title="Ayuda"
+        />
+
+    <item android:id="@+id/menuSalir"
+        android:title="Salir"
+        />
+
+
+</menu>
